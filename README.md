@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate with different data analysts, data engineers, data viz experts and more, to horn my crafts as well as build my portfolio and be of invaluable help to those I interact with
 
-- 📫 How to reach me - You reach me via email at askoye@outlook.com if you have any questions or DM me @askoye_ on Twitter and Instagram.
+- 📫 How to reach me - You reach me via email at tedsam10@gmail.com if you have any questions or DM me @askoye_ on Twitter and Instagram.
 
 <!---
 Askoye/Askoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
